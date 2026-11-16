@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased (2026-11-16)
+
+- README: Deploy on Railway button for the published template `postgis-1`. No change to the database image or start scripts.
+
 ## 18-3.7.0 (2026-11-16)
 
 First release.

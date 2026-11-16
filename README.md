@@ -1,5 +1,7 @@
 # PostGIS on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/postgis-1?utm_medium=integration&utm_source=button&utm_campaign=postgis)
+
 Railway template for [PostGIS](https://postgis.net/), the spatial database extension for PostgreSQL, running PostGIS 3.7 on PostgreSQL 18.
 
 This repo is what the template builds: a `Dockerfile` that pins the official image `postgis/postgis:18-3.7` by digest, a first-start script (`initdb/20-railway.sh`) and a small start script (`railway-entrypoint.sh`).
